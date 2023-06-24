@@ -1,8 +1,8 @@
 {
-  "name": "Camera Parallax Lesson",
-  "short_name": "Camera Parallax Lesson",
-  "id": "com.example.CameraParallaxLesson",
-  "description": "",
+  "name": "Historical Porter (Top down rpg)",
+  "short_name": "Historical Porter (Top down rpg)",
+  "id": "com.example.topdownrpg",
+  "description": "A monster tamer style top down rpg game example. Including top down movement, scrolling text during chat, camera controls, and a simple battle sequence.",
   "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
