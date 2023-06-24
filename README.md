@@ -1,2 +1,5 @@
 # my-first-gdevelop-game
-Jogo exemplo criado com o tutorial de https://gdevelop.io
+
+Jogo online disponível em: https://rpagliuca.github.io/my-first-gdevelop-game/
+
+Tutorial disponível em: https://gdevelop.io
